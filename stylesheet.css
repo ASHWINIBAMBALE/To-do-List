@@ -1,0 +1,29 @@
+body{
+    background-color:#276678;
+    font-family: 'kaya Telivigala', cursive;
+}
+.container{
+    width: 50%;
+    margin: auto;
+}
+.title{
+    text-align: center;
+    color: #0a043c;
+}
+.form{
+    margin-left: 5%;
+}
+svg{
+    color:#0a043c;
+    float: left;
+}
+input{
+    background-color: #276678;
+    float: left;
+    outline: 0;
+    border: 0px solid ;
+    border-bottom-width: 3px;
+    border-bottom-color:#0a043c;
+    padding-right: 200px;
+    font-size: 25px;
+}
